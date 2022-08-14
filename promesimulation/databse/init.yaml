@@ -2,4 +2,4 @@ database:
   host: 127.0.0.1:3306
   user: root
   dbname: recordings
-  pwd: Pp@656792
+  pwd: 
